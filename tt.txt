@@ -1,0 +1,1548 @@
+NRegWSTC             
+NRegWETC             
+NRegWLTC             
+NRegATC              
+NRegPeakTC           
+NRegWSTH             
+NRegWLTH             
+NEldWstC             
+NEldWltC             
+NEldAtC              
+NELDPeakTC           
+NEldWstH             
+NEldWltH             
+NRegWDC              
+NRegWTHC             
+NRegCGSTNfreqFwyC    
+NRegCGSTNfreqFwyDayC 
+NRegCGSTNfreqUrbC    
+NRegCGSTNfreqUrbDayC 
+NRegCGSTNfreqC       
+NRegWDH              
+NRegWTHH             
+NEldWdC              
+NEldWthC             
+NELDCGSTNfreqFwyC    
+NELDCGSTNfreqFwyDayC 
+NELDCGSTNfreqUrbC    
+NELDCGSTNfreqUrbDayC 
+NELDCGSTNfreqC       
+NEldWdH              
+NEldWthH             
+NRegWOTC             
+NRegPeakTC1          
+NRegPeakTC2          
+NEldWotC             
+NELDPeakTC1          
+NELDPeakTC2          
+NElwWthC             
+NElwWthH             
+NRegWETH             
+NEldWetC             
+NEldWetH             
+NRegDTC              
+NEldDtC              
+CRegWSTC             
+CRegWETC             
+CRegWLTC             
+CRegATC              
+CRegWSTH             
+CRegWETH             
+CRegWLTH             
+CEldWstC             
+CEldWetC             
+CEldAtC              
+CEldWstH             
+CEldWetH             
+CEldWltH             
+CEldWltC             
+CRegWDC              
+CRegWTHC             
+CRegCGSTNfreqFwyC    
+CRegCGSTNfreqFwyDayC 
+CRegCGSTNfreqUrbC    
+CRegCGSTNfreqUrbDayC 
+CRegCGSTNfreqC       
+CRegWDH              
+CRegWTHH             
+CEldWdC              
+CELDCGSTNfreqFwyC    
+CELDCGSTNfreqFwyDayC 
+CELDCGSTNfreqUrbC    
+CELDCGSTNfreqUrbDayC 
+CELDCGSTNfreqC       
+CEldWdH              
+CRegWOTC             
+CRegPeakTC1          
+CRegPeakTC2          
+CEldWotC             
+CELDPeakTC1          
+CELDPeakTC2          
+CEldWthC             
+CElwWthC             
+CEldWthH             
+CElwWthH             
+CRegDTC              
+CEldDtC              
+LateRule             
+LateTimes            
+LateReason           
+LatePenalty          
+PenaltyFeel          
+FreePAKG             
+Pakg                 
+LateRulersn          
+LateReasonValue      
+LatePenaltyValue     
+LateMin              
+CMUTEYy              
+CMUTEMm              
+CMUTEDd              
+CMUTEW               
+TtdtOrig             
+TtdtEacpt            
+TtdtLacpt            
+TtarrEacpt           
+TtarrLacpt           
+ZipcodeHome          
+RoadHome             
+ZipcodeWork          
+RoadWork             
+CityHome             
+UrbanHome            
+CityWork             
+UrbanWork            
+ConsiderCOVID        
+HabitualDT           
+OdtimeThesame        
+WorkType             
+CarSeatNo            
+StopNo               
+StopPurpRsn          
+OtherValue4          
+TDwalk               
+OVTTwalk             
+TDbike               
+OVTTbike             
+TCbike               
+TDUrbn               
+VUrrd                
+IvttUrrd             
+TdHwy                
+VHwy                 
+IvttHwy              
+TdFwy                
+VFwy                 
+IvttFwy              
+TCFee                
+TCFuel               
+TcPkg                
+IvttPrkg             
+TotalSeat            
+CarSeat              
+Stop                 
+IDveh                
+IvttStop             
+PKGHome1             
+PKGHome2             
+RouteSim             
+ChoiceSN1            
+ChoiceRsn            
+EtCO2A1              
+EtCO2A2              
+EtCO2B               
+EtCO2C               
+EyCO2A1              
+EyCO2A2              
+EyCO2B               
+EyCO2C               
+StWrk                
+Ovtt                 
+TTDTEACPTTime        
+TTDTLACPTTime        
+TDFwyMap             
+TDHwyMap             
+TDUrbanMap           
+TTMap                
+TTFwyMap             
+TTHwyMap             
+TTUrbanMap           
+IvttOrig             
+TttOrig              
+EptOrig              
+IvttsOrig            
+IvttlOrig            
+IvttaOrig            
+COETTORIG            
+TtcgstnOrig          
+TTFwyORIG            
+TTHwyORIG            
+TTUrbanORIG          
+EtCO2ORIG            
+EyCO2ORIG            
+ECtripORIG           
+ECyrORIG             
+ECtripA              
+IvttEa               
+TttEa                
+TtdtEa               
+EptEa                
+IvttsEa              
+IvttlEa              
+IvttaEa              
+COETTEA              
+TtcgstnEa            
+TTFwyEA              
+TTHwyEA              
+TTUrbanEA            
+EtCO2EA              
+EyCO2EA              
+ECtripEA             
+ECyrEA               
+DEtCO2EA             
+DEyCO2EA             
+DEtCostEA            
+DEyCostEA            
+IvttLa               
+TttLa                
+TtdtLa               
+EptLa                
+IvttsLa              
+IvttlLa              
+IvttaLa              
+COETTLA              
+TtcgstnLa            
+TTFwyLA              
+TTHwyLA              
+TTUrbanLA            
+EtCO2LA              
+EyCO2LA              
+ECtripLA             
+ECyrLA               
+DEtCO2LA             
+DEyCO2LA             
+DEtCostLA            
+DEyCostLA            
+WTPChoiceNPA         
+WtpNpA               
+WTPChoiceNPB         
+WtpNpB               
+WTPChoiceNPC         
+WtpNpC               
+WTPChoicePA          
+WtpPA                
+WTPChoicePB          
+WtpPB                
+WTPChoicePC          
+WtpPC                
+WTPZerorsn           
+WTPZerorsnOther      
+WTPUsage             
+WTPUsage1Type        
+WTPUsageRsn          
+WTADTBnpChoice       
+WTADTBnp             
+WTADTCnpChoice       
+WTADTCnp             
+WTADTBpChoice        
+WTADTBp1             
+WTADTBp2             
+WTADTCpChoice        
+WTADTCp1             
+WTADTCp2             
+WTADTZero            
+WTADTZerorsn         
+WtaDtRmn             
+WTADTRMNRsn          
+COVIDDTChoice        
+CarpoolDFreqBefore   
+CarpoolPFreqBefore   
+UberFreqBefore       
+CScarFreqBefore      
+CSotoFreqBefore      
+CSebikeFreqBefore    
+CSbikeFreqBefore     
+CarpoolDFreqNow      
+CarpoolPFreqNow      
+UberFreqNow          
+CScarFreqNow         
+CSmotoFreqNow        
+CSebikeFreqNow       
+CSbikeFreqNow        
+CarSharePREF1        
+CarSharePREF2        
+CarSharePREF3        
+CarSharePREF4        
+CarSharePREF5        
+CarSharePREF6        
+CarSharePREF7        
+CarSharePREF8        
+CplDPax              
+IvttPuD              
+CplPPax              
+IvttPuP              
+OvttWtPax            
+UberPAX              
+IVTTPUUber           
+OVTTWTUber           
+CscarPax             
+IvttrtC              
+OVTTwalkCSCAR        
+CsmkPax              
+IvttrtMb             
+OVTTwalkCSMB         
+IvttrtEb             
+OVTTwalkCSEB         
+IvttrtB              
+OVTTwalkCSB          
+CarSharePREF         
+ChoiceSN3            
+IvttA                
+IvttAA               
+IVTTPkupA            
+IvttPrkgA            
+OvttA                
+OVTTwalkA            
+OVTTbikeA            
+OVTTwaitA            
+TttA                 
+EptA                 
+TcA                  
+TcEA                 
+TCFeeA               
+TcPkgA               
+PaxA                 
+EtCO2A               
+EyCO2A               
+ECyrA                
+IvttB                
+IvttAB               
+IVTTPkupB            
+IvttPrkgB            
+OvttB                
+OVTTwalkB            
+OVTTbikeB            
+OVTTwaitB            
+TttB                 
+EptB                 
+TcB                  
+TcEB                 
+TCFeeB               
+TcPkgB               
+PaxB                 
+ECtripB              
+ECyrB                
+IvttC                
+IvttAC               
+IVTTPkupC            
+IvttPrkgC            
+OvttC                
+OVTTwalkC            
+OVTTbikeC            
+OVTTwaitC            
+TttC                 
+EptC                 
+TcC                  
+TcEC                 
+TCFeeC               
+TcPkgC               
+PaxC                 
+ECtripC              
+ECyrC                
+IvttD                
+IvttAD               
+IVTTPkupD            
+IvttPrkgD            
+OvttD                
+OVTTwalkD            
+OVTTbikeD            
+OVTTwaitD            
+TttD                 
+EptD                 
+TcED                 
+TCFeeD               
+TcPkgD               
+PaxD                 
+EtCO2D               
+EyCO2D               
+ECtripD              
+ECyrD                
+IvttE                
+IvttAE               
+IVTTPkupE            
+IvttPrkgE            
+OvttE                
+OVTTwalkE            
+OVTTbikeE            
+OVTTwaitE            
+TttE                 
+EptE                 
+TcE                  
+TcEE                 
+TCFeeE               
+TcPkgE               
+PaxE                 
+EtCO2E               
+EyCO2E               
+ECtripE              
+ECyrE                
+IvttF                
+IvttAF               
+IVTTPkupF            
+IvttPrkgF            
+OvttF                
+OVTTwalkF            
+OVTTbikeF            
+OVTTwaitF            
+TttF                 
+EptF                 
+TcF                  
+TcEF                 
+TCFeeF               
+TcPkgF               
+PaxF                 
+EtCO2F               
+EyCO2F               
+ECtripF              
+ECyrF                
+IvttG                
+IvttAG               
+IVTTPkupG            
+IvttPrkgG            
+OvttG                
+OVTTwalkG            
+OVTTbikeG            
+OVTTwaitG            
+TttG                 
+EptG                 
+TcG                  
+TcEG                 
+TCFeeG               
+TcPkgG               
+PaxG                 
+EtCO2G               
+EyCO2G               
+ECtripG              
+ECyrG                
+IvttH                
+IvttAH               
+IVTTPkupH            
+IvttPrkgH            
+OvttH                
+OVTTwalkH            
+OVTTbikeH            
+OVTTwaitH            
+TttH                 
+EptH                 
+TcH                  
+TcEH                 
+TCFeeH               
+TcPkgH               
+PaxH                 
+EtCO2H               
+EyCO2H               
+ECtripH              
+ECyrH                
+WTAModeBnpChoice     
+WTAModeBnp           
+WTAModeCnpChoice     
+WTAModeCnp           
+WTAModeDnpChoice     
+WTAModeDnp           
+WTAModeEnpChoice     
+WTAModeEnp           
+WTAModeFnpChoice     
+WTAModeFnp           
+WTAModeGnpChoice     
+WTAModeGnp           
+WTAModeHnpChoice     
+WTAModeHnp           
+WTAModeZero          
+WTAModeZerorsn       
+WTAModeRMN           
+WTAModeRMNRsn        
+COVIDModeChoice      
+WTAAttract           
+WTAAttractRsn        
+Gender               
+Age                  
+Education            
+IncomePers           
+WorkPeriod           
+WorkPeriod2          
+ResidentStatus       
+ResidentHH           
+IncomePersValue      
+IncomeHH             
+ResidentKid          
+IncomeHHValue        
+DrivingEXPC          
+ScooterHH            
+ScooterHHUse         
+CarHH                
+CarHHUse             
+VehicleINCR          
+VehicleDECR          
+VehicleNnChange      
+WFHday               
+Sr04                 
+Sp05                 
+Sp09                 
+Sr10                 
+Sr12                 
+Sr14                 
+Sp15                 
+Sr18                 
+Sp19                 
+Sp21                 
+Sr24                 
+Sp31                 
+Sp35                 
+Sp37                 
+Sr38                 
+Sp39                 
+Sr44                 
+Sr46                 
+Sp47                 
+Sp48                 
+FilterCity
+FilterLicience
+FilterMode
+
+
+
+
+
+
+
+
+CREATE TABLE analysis_detail (
+`sn` int(11) NOT NULL NOT NULL AUTO_INCREMENT,
+`result_sn` varchar(10) NOT NULL,
+`NRegWSTC` varchar(45) NOT NULL,
+`NRegWETC` varchar(45) NOT NULL,
+`NRegWLTC` varchar(45) NOT NULL,
+`NRegATC` varchar(45) NOT NULL,
+`NRegPeakTC` varchar(45) NOT NULL,
+`NRegWSTH` varchar(45) NOT NULL,
+`NRegWLTH` varchar(45) NOT NULL,
+`NEldWstC` varchar(45) NOT NULL,
+`NEldWltC` varchar(45) NOT NULL,
+`NEldAtC` varchar(45) NOT NULL,
+`NELDPeakTC` varchar(45) NOT NULL,
+`NEldWstH` varchar(45) NOT NULL,
+`NEldWltH` varchar(45) NOT NULL,
+`NRegWDC` varchar(45) NOT NULL,
+`NRegWTHC` varchar(45) NOT NULL,
+`NRegCGSTNfreqFwyC` varchar(45) NOT NULL,
+`NRegCGSTNfreqFwyDayC` varchar(45) NOT NULL,
+`NRegCGSTNfreqUrbC` varchar(45) NOT NULL,
+`NRegCGSTNfreqUrbDayC` varchar(45) NOT NULL,
+`NRegCGSTNfreqC` varchar(45) NOT NULL,
+`NRegWDH` varchar(45) NOT NULL,
+`NRegWTHH` varchar(45) NOT NULL,
+`NEldWdC` varchar(45) NOT NULL,
+`NEldWthC` varchar(45) NOT NULL,
+`NELDCGSTNfreqFwyC` varchar(45) NOT NULL,
+`NELDCGSTNfreqFwyDayC` varchar(45) NOT NULL,
+`NELDCGSTNfreqUrbC` varchar(45) NOT NULL,
+`NELDCGSTNfreqUrbDayC` varchar(45) NOT NULL,
+`NELDCGSTNfreqC` varchar(45) NOT NULL,
+`NEldWdH` varchar(45) NOT NULL,
+`NEldWthH` varchar(45) NOT NULL,
+`NRegWOTC` varchar(45) NOT NULL,
+`NRegPeakTC1` varchar(45) NOT NULL,
+`NRegPeakTC2` varchar(45) NOT NULL,
+`NEldWotC` varchar(45) NOT NULL,
+`NELDPeakTC1` varchar(45) NOT NULL,
+`NELDPeakTC2` varchar(45) NOT NULL,
+`NElwWthC` varchar(45) NOT NULL,
+`NElwWthH` varchar(45) NOT NULL,
+`NRegWETH` varchar(45) NOT NULL,
+`NEldWetC` varchar(45) NOT NULL,
+`NEldWetH` varchar(45) NOT NULL,
+`NRegDTC` varchar(45) NOT NULL,
+`NEldDtC` varchar(45) NOT NULL,
+`CRegWSTC` varchar(45) NOT NULL,
+`CRegWETC` varchar(45) NOT NULL,
+`CRegWLTC` varchar(45) NOT NULL,
+`CRegATC` varchar(45) NOT NULL,
+`CRegWSTH` varchar(45) NOT NULL,
+`CRegWETH` varchar(45) NOT NULL,
+`CRegWLTH` varchar(45) NOT NULL,
+`CEldWstC` varchar(45) NOT NULL,
+`CEldWetC` varchar(45) NOT NULL,
+`CEldAtC` varchar(45) NOT NULL,
+`CEldWstH` varchar(45) NOT NULL,
+`CEldWetH` varchar(45) NOT NULL,
+`CEldWltH` varchar(45) NOT NULL,
+`CEldWltC` varchar(45) NOT NULL,
+`CRegWDC` varchar(45) NOT NULL,
+`CRegWTHC` varchar(45) NOT NULL,
+`CRegCGSTNfreqFwyC` varchar(45) NOT NULL,
+`CRegCGSTNfreqFwyDayC` varchar(45) NOT NULL,
+`CRegCGSTNfreqUrbC` varchar(45) NOT NULL,
+`CRegCGSTNfreqUrbDayC` varchar(45) NOT NULL,
+`CRegCGSTNfreqC` varchar(45) NOT NULL,
+`CRegWDH` varchar(45) NOT NULL,
+`CRegWTHH` varchar(45) NOT NULL,
+`CEldWdC` varchar(45) NOT NULL,
+`CELDCGSTNfreqFwyC` varchar(45) NOT NULL,
+`CELDCGSTNfreqFwyDayC` varchar(45) NOT NULL,
+`CELDCGSTNfreqUrbC` varchar(45) NOT NULL,
+`CELDCGSTNfreqUrbDayC` varchar(45) NOT NULL,
+`CELDCGSTNfreqC` varchar(45) NOT NULL,
+`CEldWdH` varchar(45) NOT NULL,
+`CRegWOTC` varchar(45) NOT NULL,
+`CRegPeakTC1` varchar(45) NOT NULL,
+`CRegPeakTC2` varchar(45) NOT NULL,
+`CEldWotC` varchar(45) NOT NULL,
+`CELDPeakTC1` varchar(45) NOT NULL,
+`CELDPeakTC2` varchar(45) NOT NULL,
+`CEldWthC` varchar(45) NOT NULL,
+`CElwWthC` varchar(45) NOT NULL,
+`CEldWthH` varchar(45) NOT NULL,
+`CElwWthH` varchar(45) NOT NULL,
+`CRegDTC` varchar(45) NOT NULL,
+`CEldDtC` varchar(45) NOT NULL,
+`LateRule` varchar(45) NOT NULL,
+`LateTimes` varchar(45) NOT NULL,
+`LateReason` varchar(45) NOT NULL,
+`LatePenalty` varchar(45) NOT NULL,
+`PenaltyFeel` varchar(45) NOT NULL,
+`FreePAKG` varchar(45) NOT NULL,
+`Pakg` varchar(45) NOT NULL,
+`LateRulersn` varchar(45) NOT NULL,
+`LateReasonValue` varchar(45) NOT NULL,
+`LatePenaltyValue` varchar(45) NOT NULL,
+`LateMin` varchar(45) NOT NULL,
+`CMUTEYy` varchar(45) NOT NULL,
+`CMUTEMm` varchar(45) NOT NULL,
+`CMUTEDd` varchar(45) NOT NULL,
+`CMUTEW` varchar(45) NOT NULL,
+`TtdtOrig` varchar(45) NOT NULL,
+`TtdtEacpt` varchar(45) NOT NULL,
+`TtdtLacpt` varchar(45) NOT NULL,
+`TtarrEacpt` varchar(45) NOT NULL,
+`TtarrLacpt` varchar(45) NOT NULL,
+`ZipcodeHome` varchar(45) NOT NULL,
+`RoadHome` varchar(45) NOT NULL,
+`ZipcodeWork` varchar(45) NOT NULL,
+`RoadWork` varchar(45) NOT NULL,
+`CityHome` varchar(45) NOT NULL,
+`UrbanHome` varchar(45) NOT NULL,
+`CityWork` varchar(45) NOT NULL,
+`UrbanWork` varchar(45) NOT NULL,
+`ConsiderCOVID` varchar(45) NOT NULL,
+`HabitualDT` varchar(45) NOT NULL,
+`OdtimeThesame` varchar(45) NOT NULL,
+`WorkType` varchar(45) NOT NULL,
+`CarSeatNo` varchar(45) NOT NULL,
+`StopNo` varchar(45) NOT NULL,
+`StopPurpRsn` varchar(45) NOT NULL,
+`OtherValue4` varchar(45) NOT NULL,
+`TDwalk` varchar(45) NOT NULL,
+`OVTTwalk` varchar(45) NOT NULL,
+`TDbike` varchar(45) NOT NULL,
+`OVTTbike` varchar(45) NOT NULL,
+`TCbike` varchar(45) NOT NULL,
+`TDUrbn` varchar(45) NOT NULL,
+`VUrrd` varchar(45) NOT NULL,
+`IvttUrrd` varchar(45) NOT NULL,
+`TdHwy` varchar(45) NOT NULL,
+`VHwy` varchar(45) NOT NULL,
+`IvttHwy` varchar(45) NOT NULL,
+`TdFwy` varchar(45) NOT NULL,
+`VFwy` varchar(45) NOT NULL,
+`IvttFwy` varchar(45) NOT NULL,
+`TCFee` varchar(45) NOT NULL,
+`TCFuel` varchar(45) NOT NULL,
+`TcPkg` varchar(45) NOT NULL,
+`IvttPrkg` varchar(45) NOT NULL,
+`TotalSeat` varchar(45) NOT NULL,
+`CarSeat` varchar(45) NOT NULL,
+`Stop` varchar(45) NOT NULL,
+`IDveh` varchar(45) NOT NULL,
+`IvttStop` varchar(45) NOT NULL,
+`PKGHome1` varchar(45) NOT NULL,
+`PKGHome2` varchar(45) NOT NULL,
+`RouteSim` varchar(45) NOT NULL,
+`ChoiceSN1` varchar(45) NOT NULL,
+`ChoiceRsn` varchar(45) NOT NULL,
+`EtCO2A1` varchar(45) NOT NULL,
+`EtCO2A2` varchar(45) NOT NULL,
+`EtCO2B` varchar(45) NOT NULL,
+`EtCO2C` varchar(45) NOT NULL,
+`EyCO2A1` varchar(45) NOT NULL,
+`EyCO2A2` varchar(45) NOT NULL,
+`EyCO2B` varchar(45) NOT NULL,
+`EyCO2C` varchar(45) NOT NULL,
+`StWrk` varchar(45) NOT NULL,
+`Ovtt` varchar(45) NOT NULL,
+`TTDTEACPTTime` varchar(45) NOT NULL,
+`TTDTLACPTTime` varchar(45) NOT NULL,
+`TDFwyMap` varchar(45) NOT NULL,
+`TDHwyMap` varchar(45) NOT NULL,
+`TDUrbanMap` varchar(45) NOT NULL,
+`TTMap` varchar(45) NOT NULL,
+`TTFwyMap` varchar(45) NOT NULL,
+`TTHwyMap` varchar(45) NOT NULL,
+`TTUrbanMap` varchar(45) NOT NULL,
+`IvttOrig` varchar(45) NOT NULL,
+`TttOrig` varchar(45) NOT NULL,
+`EptOrig` varchar(45) NOT NULL,
+`IvttsOrig` varchar(45) NOT NULL,
+`IvttlOrig` varchar(45) NOT NULL,
+`IvttaOrig` varchar(45) NOT NULL,
+`COETTORIG` varchar(45) NOT NULL,
+`TtcgstnOrig` varchar(45) NOT NULL,
+`TTFwyORIG` varchar(45) NOT NULL,
+`TTHwyORIG` varchar(45) NOT NULL,
+`TTUrbanORIG` varchar(45) NOT NULL,
+`EtCO2ORIG` varchar(45) NOT NULL,
+`EyCO2ORIG` varchar(45) NOT NULL,
+`ECtripORIG` varchar(45) NOT NULL,
+`ECyrORIG` varchar(45) NOT NULL,
+`ECtripA` varchar(45) NOT NULL,
+`IvttEa` varchar(45) NOT NULL,
+`TttEa` varchar(45) NOT NULL,
+`TtdtEa` varchar(45) NOT NULL,
+`EptEa` varchar(45) NOT NULL,
+`IvttsEa` varchar(45) NOT NULL,
+`IvttlEa` varchar(45) NOT NULL,
+`IvttaEa` varchar(45) NOT NULL,
+`COETTEA` varchar(45) NOT NULL,
+`TtcgstnEa` varchar(45) NOT NULL,
+`TTFwyEA` varchar(45) NOT NULL,
+`TTHwyEA` varchar(45) NOT NULL,
+`TTUrbanEA` varchar(45) NOT NULL,
+`EtCO2EA` varchar(45) NOT NULL,
+`EyCO2EA` varchar(45) NOT NULL,
+`ECtripEA` varchar(45) NOT NULL,
+`ECyrEA` varchar(45) NOT NULL,
+`DEtCO2EA` varchar(45) NOT NULL,
+`DEyCO2EA` varchar(45) NOT NULL,
+`DEtCostEA` varchar(45) NOT NULL,
+`DEyCostEA` varchar(45) NOT NULL,
+`IvttLa` varchar(45) NOT NULL,
+`TttLa` varchar(45) NOT NULL,
+`TtdtLa` varchar(45) NOT NULL,
+`EptLa` varchar(45) NOT NULL,
+`IvttsLa` varchar(45) NOT NULL,
+`IvttlLa` varchar(45) NOT NULL,
+`IvttaLa` varchar(45) NOT NULL,
+`COETTLA` varchar(45) NOT NULL,
+`TtcgstnLa` varchar(45) NOT NULL,
+`TTFwyLA` varchar(45) NOT NULL,
+`TTHwyLA` varchar(45) NOT NULL,
+`TTUrbanLA` varchar(45) NOT NULL,
+`EtCO2LA` varchar(45) NOT NULL,
+`EyCO2LA` varchar(45) NOT NULL,
+`ECtripLA` varchar(45) NOT NULL,
+`ECyrLA` varchar(45) NOT NULL,
+`DEtCO2LA` varchar(45) NOT NULL,
+`DEyCO2LA` varchar(45) NOT NULL,
+`DEtCostLA` varchar(45) NOT NULL,
+`DEyCostLA` varchar(45) NOT NULL,
+`WTPChoiceNPA` varchar(45) NOT NULL,
+`WtpNpA` varchar(45) NOT NULL,
+`WTPChoiceNPB` varchar(45) NOT NULL,
+`WtpNpB` varchar(45) NOT NULL,
+`WTPChoiceNPC` varchar(45) NOT NULL,
+`WtpNpC` varchar(45) NOT NULL,
+`WTPChoicePA` varchar(45) NOT NULL,
+`WtpPA` varchar(45) NOT NULL,
+`WTPChoicePB` varchar(45) NOT NULL,
+`WtpPB` varchar(45) NOT NULL,
+`WTPChoicePC` varchar(45) NOT NULL,
+`WtpPC` varchar(45) NOT NULL,
+`WTPZerorsn` varchar(45) NOT NULL,
+`WTPZerorsnOther` varchar(45) NOT NULL,
+`WTPUsage` varchar(45) NOT NULL,
+`WTPUsage1Type` varchar(45) NOT NULL,
+`WTPUsageRsn` varchar(45) NOT NULL,
+`WTADTBnpChoice` varchar(45) NOT NULL,
+`WTADTBnp` varchar(45) NOT NULL,
+`WTADTCnpChoice` varchar(45) NOT NULL,
+`WTADTCnp` varchar(45) NOT NULL,
+`WTADTBpChoice` varchar(45) NOT NULL,
+`WTADTBp1` varchar(45) NOT NULL,
+`WTADTBp2` varchar(45) NOT NULL,
+`WTADTCpChoice` varchar(45) NOT NULL,
+`WTADTCp1` varchar(45) NOT NULL,
+`WTADTCp2` varchar(45) NOT NULL,
+`WTADTZero` varchar(45) NOT NULL,
+`WTADTZerorsn` varchar(45) NOT NULL,
+`WtaDtRmn` varchar(45) NOT NULL,
+`WTADTRMNRsn` varchar(45) NOT NULL,
+`COVIDDTChoice` varchar(45) NOT NULL,
+`CarpoolDFreqBefore` varchar(45) NOT NULL,
+`CarpoolPFreqBefore` varchar(45) NOT NULL,
+`UberFreqBefore` varchar(45) NOT NULL,
+`CScarFreqBefore` varchar(45) NOT NULL,
+`CSotoFreqBefore` varchar(45) NOT NULL,
+`CSebikeFreqBefore` varchar(45) NOT NULL,
+`CSbikeFreqBefore` varchar(45) NOT NULL,
+`CarpoolDFreqNow` varchar(45) NOT NULL,
+`CarpoolPFreqNow` varchar(45) NOT NULL,
+`UberFreqNow` varchar(45) NOT NULL,
+`CScarFreqNow` varchar(45) NOT NULL,
+`CSmotoFreqNow` varchar(45) NOT NULL,
+`CSebikeFreqNow` varchar(45) NOT NULL,
+`CSbikeFreqNow` varchar(45) NOT NULL,
+`CarSharePREF1` varchar(45) NOT NULL,
+`CarSharePREF2` varchar(45) NOT NULL,
+`CarSharePREF3` varchar(45) NOT NULL,
+`CarSharePREF4` varchar(45) NOT NULL,
+`CarSharePREF5` varchar(45) NOT NULL,
+`CarSharePREF6` varchar(45) NOT NULL,
+`CarSharePREF7` varchar(45) NOT NULL,
+`CarSharePREF8` varchar(45) NOT NULL,
+`CplDPax` varchar(45) NOT NULL,
+`IvttPuD` varchar(45) NOT NULL,
+`CplPPax` varchar(45) NOT NULL,
+`IvttPuP` varchar(45) NOT NULL,
+`OvttWtPax` varchar(45) NOT NULL,
+`UberPAX` varchar(45) NOT NULL,
+`IVTTPUUber` varchar(45) NOT NULL,
+`OVTTWTUber` varchar(45) NOT NULL,
+`CscarPax` varchar(45) NOT NULL,
+`IvttrtC` varchar(45) NOT NULL,
+`OVTTwalkCSCAR` varchar(45) NOT NULL,
+`CsmkPax` varchar(45) NOT NULL,
+`IvttrtMb` varchar(45) NOT NULL,
+`OVTTwalkCSMB` varchar(45) NOT NULL,
+`IvttrtEb` varchar(45) NOT NULL,
+`OVTTwalkCSEB` varchar(45) NOT NULL,
+`IvttrtB` varchar(45) NOT NULL,
+`OVTTwalkCSB` varchar(45) NOT NULL,
+`CarSharePREF` varchar(45) NOT NULL,
+`ChoiceSN3` varchar(45) NOT NULL,
+`IvttA` varchar(45) NOT NULL,
+`IvttAA` varchar(45) NOT NULL,
+`IVTTPkupA` varchar(45) NOT NULL,
+`IvttPrkgA` varchar(45) NOT NULL,
+`OvttA` varchar(45) NOT NULL,
+`OVTTwalkA` varchar(45) NOT NULL,
+`OVTTbikeA` varchar(45) NOT NULL,
+`OVTTwaitA` varchar(45) NOT NULL,
+`TttA` varchar(45) NOT NULL,
+`EptA` varchar(45) NOT NULL,
+`TcA` varchar(45) NOT NULL,
+`TcEA` varchar(45) NOT NULL,
+`TCFeeA` varchar(45) NOT NULL,
+`TcPkgA` varchar(45) NOT NULL,
+`PaxA` varchar(45) NOT NULL,
+`EtCO2A` varchar(45) NOT NULL,
+`EyCO2A` varchar(45) NOT NULL,
+`ECyrA` varchar(45) NOT NULL,
+`IvttB` varchar(45) NOT NULL,
+`IvttAB` varchar(45) NOT NULL,
+`IVTTPkupB` varchar(45) NOT NULL,
+`IvttPrkgB` varchar(45) NOT NULL,
+`OvttB` varchar(45) NOT NULL,
+`OVTTwalkB` varchar(45) NOT NULL,
+`OVTTbikeB` varchar(45) NOT NULL,
+`OVTTwaitB` varchar(45) NOT NULL,
+`TttB` varchar(45) NOT NULL,
+`EptB` varchar(45) NOT NULL,
+`TcB` varchar(45) NOT NULL,
+`TcEB` varchar(45) NOT NULL,
+`TCFeeB` varchar(45) NOT NULL,
+`TcPkgB` varchar(45) NOT NULL,
+`PaxB` varchar(45) NOT NULL,
+`ECtripB` varchar(45) NOT NULL,
+`ECyrB` varchar(45) NOT NULL,
+`IvttC` varchar(45) NOT NULL,
+`IvttAC` varchar(45) NOT NULL,
+`IVTTPkupC` varchar(45) NOT NULL,
+`IvttPrkgC` varchar(45) NOT NULL,
+`OvttC` varchar(45) NOT NULL,
+`OVTTwalkC` varchar(45) NOT NULL,
+`OVTTbikeC` varchar(45) NOT NULL,
+`OVTTwaitC` varchar(45) NOT NULL,
+`TttC` varchar(45) NOT NULL,
+`EptC` varchar(45) NOT NULL,
+`TcC` varchar(45) NOT NULL,
+`TcEC` varchar(45) NOT NULL,
+`TCFeeC` varchar(45) NOT NULL,
+`TcPkgC` varchar(45) NOT NULL,
+`PaxC` varchar(45) NOT NULL,
+`ECtripC` varchar(45) NOT NULL,
+`ECyrC` varchar(45) NOT NULL,
+`IvttD` varchar(45) NOT NULL,
+`IvttAD` varchar(45) NOT NULL,
+`IVTTPkupD` varchar(45) NOT NULL,
+`IvttPrkgD` varchar(45) NOT NULL,
+`OvttD` varchar(45) NOT NULL,
+`OVTTwalkD` varchar(45) NOT NULL,
+`OVTTbikeD` varchar(45) NOT NULL,
+`OVTTwaitD` varchar(45) NOT NULL,
+`TttD` varchar(45) NOT NULL,
+`EptD` varchar(45) NOT NULL,
+`TcED` varchar(45) NOT NULL,
+`TCFeeD` varchar(45) NOT NULL,
+`TcPkgD` varchar(45) NOT NULL,
+`PaxD` varchar(45) NOT NULL,
+`EtCO2D` varchar(45) NOT NULL,
+`EyCO2D` varchar(45) NOT NULL,
+`ECtripD` varchar(45) NOT NULL,
+`ECyrD` varchar(45) NOT NULL,
+`IvttE` varchar(45) NOT NULL,
+`IvttAE` varchar(45) NOT NULL,
+`IVTTPkupE` varchar(45) NOT NULL,
+`IvttPrkgE` varchar(45) NOT NULL,
+`OvttE` varchar(45) NOT NULL,
+`OVTTwalkE` varchar(45) NOT NULL,
+`OVTTbikeE` varchar(45) NOT NULL,
+`OVTTwaitE` varchar(45) NOT NULL,
+`TttE` varchar(45) NOT NULL,
+`EptE` varchar(45) NOT NULL,
+`TcE` varchar(45) NOT NULL,
+`TcEE` varchar(45) NOT NULL,
+`TCFeeE` varchar(45) NOT NULL,
+`TcPkgE` varchar(45) NOT NULL,
+`PaxE` varchar(45) NOT NULL,
+`EtCO2E` varchar(45) NOT NULL,
+`EyCO2E` varchar(45) NOT NULL,
+`ECtripE` varchar(45) NOT NULL,
+`ECyrE` varchar(45) NOT NULL,
+`IvttF` varchar(45) NOT NULL,
+`IvttAF` varchar(45) NOT NULL,
+`IVTTPkupF` varchar(45) NOT NULL,
+`IvttPrkgF` varchar(45) NOT NULL,
+`OvttF` varchar(45) NOT NULL,
+`OVTTwalkF` varchar(45) NOT NULL,
+`OVTTbikeF` varchar(45) NOT NULL,
+`OVTTwaitF` varchar(45) NOT NULL,
+`TttF` varchar(45) NOT NULL,
+`EptF` varchar(45) NOT NULL,
+`TcF` varchar(45) NOT NULL,
+`TcEF` varchar(45) NOT NULL,
+`TCFeeF` varchar(45) NOT NULL,
+`TcPkgF` varchar(45) NOT NULL,
+`PaxF` varchar(45) NOT NULL,
+`EtCO2F` varchar(45) NOT NULL,
+`EyCO2F` varchar(45) NOT NULL,
+`ECtripF` varchar(45) NOT NULL,
+`ECyrF` varchar(45) NOT NULL,
+`IvttG` varchar(45) NOT NULL,
+`IvttAG` varchar(45) NOT NULL,
+`IVTTPkupG` varchar(45) NOT NULL,
+`IvttPrkgG` varchar(45) NOT NULL,
+`OvttG` varchar(45) NOT NULL,
+`OVTTwalkG` varchar(45) NOT NULL,
+`OVTTbikeG` varchar(45) NOT NULL,
+`OVTTwaitG` varchar(45) NOT NULL,
+`TttG` varchar(45) NOT NULL,
+`EptG` varchar(45) NOT NULL,
+`TcG` varchar(45) NOT NULL,
+`TcEG` varchar(45) NOT NULL,
+`TCFeeG` varchar(45) NOT NULL,
+`TcPkgG` varchar(45) NOT NULL,
+`PaxG` varchar(45) NOT NULL,
+`EtCO2G` varchar(45) NOT NULL,
+`EyCO2G` varchar(45) NOT NULL,
+`ECtripG` varchar(45) NOT NULL,
+`ECyrG` varchar(45) NOT NULL,
+`IvttH` varchar(45) NOT NULL,
+`IvttAH` varchar(45) NOT NULL,
+`IVTTPkupH` varchar(45) NOT NULL,
+`IvttPrkgH` varchar(45) NOT NULL,
+`OvttH` varchar(45) NOT NULL,
+`OVTTwalkH` varchar(45) NOT NULL,
+`OVTTbikeH` varchar(45) NOT NULL,
+`OVTTwaitH` varchar(45) NOT NULL,
+`TttH` varchar(45) NOT NULL,
+`EptH` varchar(45) NOT NULL,
+`TcH` varchar(45) NOT NULL,
+`TcEH` varchar(45) NOT NULL,
+`TCFeeH` varchar(45) NOT NULL,
+`TcPkgH` varchar(45) NOT NULL,
+`PaxH` varchar(45) NOT NULL,
+`EtCO2H` varchar(45) NOT NULL,
+`EyCO2H` varchar(45) NOT NULL,
+`ECtripH` varchar(45) NOT NULL,
+`ECyrH` varchar(45) NOT NULL,
+`WTAModeBnpChoice` varchar(45) NOT NULL,
+`WTAModeBnp` varchar(45) NOT NULL,
+`WTAModeCnpChoice` varchar(45) NOT NULL,
+`WTAModeCnp` varchar(45) NOT NULL,
+`WTAModeDnpChoice` varchar(45) NOT NULL,
+`WTAModeDnp` varchar(45) NOT NULL,
+`WTAModeEnpChoice` varchar(45) NOT NULL,
+`WTAModeEnp` varchar(45) NOT NULL,
+`WTAModeFnpChoice` varchar(45) NOT NULL,
+`WTAModeFnp` varchar(45) NOT NULL,
+`WTAModeGnpChoice` varchar(45) NOT NULL,
+`WTAModeGnp` varchar(45) NOT NULL,
+`WTAModeHnpChoice` varchar(45) NOT NULL,
+`WTAModeHnp` varchar(45) NOT NULL,
+`WTAModeZero` varchar(45) NOT NULL,
+`WTAModeZerorsn` varchar(45) NOT NULL,
+`WTAModeRMN` varchar(45) NOT NULL,
+`WTAModeRMNRsn` varchar(45) NOT NULL,
+`COVIDModeChoice` varchar(45) NOT NULL,
+`WTAAttract` varchar(45) NOT NULL,
+`WTAAttractRsn` varchar(45) NOT NULL,
+`Gender` varchar(45) NOT NULL,
+`Age` varchar(45) NOT NULL,
+`Education` varchar(45) NOT NULL,
+`IncomePers` varchar(45) NOT NULL,
+`WorkPeriod` varchar(45) NOT NULL,
+`WorkPeriod2` varchar(45) NOT NULL,
+`ResidentStatus` varchar(45) NOT NULL,
+`ResidentHH` varchar(45) NOT NULL,
+`IncomePersValue` varchar(45) NOT NULL,
+`IncomeHH` varchar(45) NOT NULL,
+`ResidentKid` varchar(45) NOT NULL,
+`IncomeHHValue` varchar(45) NOT NULL,
+`DrivingEXPC` varchar(45) NOT NULL,
+`ScooterHH` varchar(45) NOT NULL,
+`ScooterHHUse` varchar(45) NOT NULL,
+`CarHH` varchar(45) NOT NULL,
+`CarHHUse` varchar(45) NOT NULL,
+`VehicleINCR` varchar(45) NOT NULL,
+`VehicleDECR` varchar(45) NOT NULL,
+`VehicleNnChange` varchar(45) NOT NULL,
+`WFHday` varchar(45) NOT NULL,
+`Sr04` varchar(45) NOT NULL,
+`Sp05` varchar(45) NOT NULL,
+`Sp09` varchar(45) NOT NULL,
+`Sr10` varchar(45) NOT NULL,
+`Sr12` varchar(45) NOT NULL,
+`Sr14` varchar(45) NOT NULL,
+`Sp15` varchar(45) NOT NULL,
+`Sr18` varchar(45) NOT NULL,
+`Sp19` varchar(45) NOT NULL,
+`Sp21` varchar(45) NOT NULL,
+`Sr24` varchar(45) NOT NULL,
+`Sp31` varchar(45) NOT NULL,
+`Sp35` varchar(45) NOT NULL,
+`Sp37` varchar(45) NOT NULL,
+`Sr38` varchar(45) NOT NULL,
+`Sp39` varchar(45) NOT NULL,
+`Sr44` varchar(45) NOT NULL,
+`Sr46` varchar(45) NOT NULL,
+`Sp47` varchar(45) NOT NULL,
+`Sp48` varchar(45) NOT NULL,
+`FilterCity` varchar(45) NOT NULL,
+`FilterLicience` varchar(45) NOT NULL,
+`FilterMode` varchar(45) NOT NULL,
+ PRIMARY KEY (`sn`),
+ KEY `result_sn` (`result_sn`)
+)ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+CREATE INDEX idx_result_sn on question.analysis_detail(result_sn)
+
+
+N_Reg_WST_C
+	N_Reg_WET_C
+	N_Reg_WLT_C
+	N_Reg_AT_C
+	N_Reg_PeakT_C
+	N_Reg_WST_H
+	N_Reg_WLT_H
+	N_ELD_WST_C
+	N_ELD_WLT_C
+	N_ELD_AT_C
+	N_ELD_PeakT_C
+	N_ELD_WST_H
+	N_ELD_WLT_H
+	N_Reg_WD_C
+	N_Reg_WTH_C
+	N_Reg_CGSTNfreqFwy_C
+	N_Reg_CGSTNfreqFwyDay_C
+	N_Reg_CGSTNfreqUrb_C
+	N_Reg_CGSTNfreqUrbDay_C
+	N_Reg_CGSTNfreq_C
+	N_Reg_WD_H
+	N_Reg_WTH_H
+	N_ELD_WD_C
+	N_ELD_WTH_C
+	N_ELD_CGSTNfreqFwy_C
+	N_ELD_CGSTNfreqFwyDay_C
+	N_ELD_CGSTNfreqUrb_C
+	N_ELD_CGSTNfreqUrbDay_C
+	N_ELD_CGSTNfreq_C
+	N_ELD_WD_H
+	N_ELD_WTH_H
+	N_Reg_WOT_C
+	N_Reg_PeakT_C1
+	N_Reg_PeakT_C2
+	N_ELD_WOT_C
+	N_ELD_PeakT_C1
+	N_ELD_PeakT_C2
+	N_ELW_WTH_C
+	N_ELW_WTH_H
+	N_Reg_WET_H
+	N_ELD_WET_C
+	N_ELD_WET_H
+	N_Reg_DT_C
+	N_ELD_DT_C
+	C_Reg_WST_C
+	C_Reg_WET_C
+	C_Reg_WLT_C
+	C_Reg_AT_C
+	C_Reg_WST_H
+	C_Reg_WET_H
+	C_Reg_WLT_H
+	C_ELD_WST_C
+	C_ELD_WET_C
+	C_ELD_AT_C
+	C_ELD_WST_H
+	C_ELD_WET_H
+	C_ELD_WLT_H
+	C_ELD_WLT_C
+	C_Reg_WD_C
+	C_Reg_WTH_C
+	C_Reg_CGSTNfreqFwy_C
+	C_Reg_CGSTNfreqFwyDay_C
+	C_Reg_CGSTNfreqUrb_C
+	C_Reg_CGSTNfreqUrbDay_C
+	C_Reg_CGSTNfreq_C
+	C_Reg_WD_H
+	C_Reg_WTH_H
+	C_ELD_WD_C
+	C_ELD_CGSTNfreqFwy_C
+	C_ELD_CGSTNfreqFwyDay_C
+	C_ELD_CGSTNfreqUrb_C
+	C_ELD_CGSTNfreqUrbDay_C
+	C_ELD_CGSTNfreq_C
+	C_ELD_WD_H
+	C_Reg_WOT_C
+	C_Reg_PeakT_C1
+	C_Reg_PeakT_C2
+	C_ELD_WOT_C
+	C_ELD_PeakT_C1
+	C_ELD_PeakT_C2
+	C_ELD_WTH_C
+	C_ELW_WTH_C
+	C_ELD_WTH_H
+	C_ELW_WTH_H
+	C_Reg_DT_C
+	C_ELD_DT_C
+	late_rule
+	late_times
+	late_reason
+	late_penalty
+	penalty_feel
+	Free_PAKG
+	PAKG
+	late_rulersn
+	late_reason_value
+	late_penalty_value
+	late_min
+	CMUTE_yy
+	CMUTE_mm
+	CMUTE_dd
+	CMUTE_w
+	TTDT_ORIG
+	TTDT_EACPT
+	TTDT_LACPT
+	TTARR_EACPT
+	TTARR_LACPT
+	zipcode_home
+	road_home
+	zipcode_work
+	road_work
+	city_home
+	Urban_home
+	city_work
+	Urban_work
+	consider_COVID
+	habitual_DT
+	Odtime_thesame
+	work_type
+	CarSeat_No
+	Stop_No
+	Stop_purp_rsn
+	otherValue4
+	TDwalk
+	OVTTwalk
+	TDbike
+	OVTTbike
+	TCbike
+	TD_Urbn
+	V_URRD
+	IVTT_URRD
+	TD_HWY
+	V_HWY
+	IVTT_HWY
+	TD_FWY
+	V_FWY
+	IVTT_FWY
+	TC_fee
+	TC_fuel
+	TC_PKG
+	IVTT_PRKG
+	Total_seat
+	CarSeat
+	Stop
+	IDveh
+	IVTT_STOP
+	PKG_home_1
+	PKG_home_2
+	route_sim
+	Choice_SN1
+	Choice_rsn
+	EtCO2_A1
+	EtCO2_A2
+	EtCO2_B
+	EtCO2_C
+	EyCO2_A1
+	EyCO2_A2
+	EyCO2_B
+	EyCO2_C
+	ST_WRK
+	OVTT
+	TTDT_EACPT_Time
+	TTDT_LACPT_Time
+	TDFwy_map
+	TDHwy_map
+	TDUrban_map
+	TT_map
+	TTFwy_map
+	TTHwy_map
+	TTUrban_map
+	IVTT_ORIG
+	TTT_ORIG
+	EPT_ORIG
+	IVTTS_ORIG
+	IVTTL_ORIG
+	IVTTA_ORIG
+	COE_TT_ORIG
+	TTCGSTN_ORIG
+	TTFwy_ORIG
+	TTHwy_ORIG
+	TTUrban_ORIG
+	EtCO2_ORIG
+	EyCO2_ORIG
+	ECtrip_ORIG
+	ECyr_ORIG
+	ECtrip_A
+	IVTT_EA
+	TTT_EA
+	TTDT_EA
+	EPT_EA
+	IVTTS_EA
+	IVTTL_EA
+	IVTTA_EA
+	COE_TT_EA
+	TTCGSTN_EA
+	TTFwy_EA
+	TTHwy_EA
+	TTUrban_EA
+	EtCO2_EA
+	EyCO2_EA
+	ECtrip_EA
+	ECyr_EA
+	DEtCO2_EA
+	DEyCO2_EA
+	DEtCost_EA
+	DEyCost_EA
+	IVTT_LA
+	TTT_LA
+	TTDT_LA
+	EPT_LA
+	IVTTS_LA
+	IVTTL_LA
+	IVTTA_LA
+	COE_TT_LA
+	TTCGSTN_LA
+	TTFwy_LA
+	TTHwy_LA
+	TTUrban_LA
+	EtCO2_LA
+	EyCO2_LA
+	ECtrip_LA
+	ECyr_LA
+	DEtCO2_LA
+	DEyCO2_LA
+	DEtCost_LA
+	DEyCost_LA
+	WTPChoice_NP_A
+	WTP_NP_A
+	WTPChoice_NP_B
+	WTP_NP_B
+	WTPChoice_NP_C
+	WTP_NP_C
+	WTPChoice_P_A
+	WTP_P_A
+	WTPChoice_P_B
+	WTP_P_B
+	WTPChoice_P_C
+	WTP_P_C
+	WTP_zerorsn
+	WTP_zerorsn_other
+	WTP_usage
+	WTP_usage1type
+	WTP_usage_rsn
+	WTA_DT_Bnp_choice
+	WTA_DT_Bnp
+	WTA_DT_Cnp_choice
+	WTA_DT_Cnp
+	WTA_DT_Bp_choice
+	WTA_DT_Bp1
+	WTA_DT_Bp2
+	WTA_DT_Cp_choice
+	WTA_DT_Cp1
+	WTA_DT_Cp2
+	WTA_DT_zero
+	WTA_DT_zerorsn
+	WTA_DT_RMN
+	WTA_DT_RMN_rsn
+	COVID_DT_Choice
+	carpoolD_Freq_before
+	carpoolP_Freq_before
+	Uber_Freq_before
+	CScar_Freq_before
+	CSoto_Freq_before
+	CSebike_Freq_before
+	CSbike_Freq_before
+	carpoolD_Freq_now
+	carpoolP_Freq_now
+	Uber_Freq_now
+	CScar_Freq_now
+	CSmoto_Freq_now
+	CSebike_Freq_now
+	CSbike_Freq_now
+	CarShare_PREF1
+	CarShare_PREF2
+	CarShare_PREF3
+	CarShare_PREF4
+	CarShare_PREF5
+	CarShare_PREF6
+	CarShare_PREF7
+	CarShare_PREF8
+	CPL_D_PAX
+	IVTT_PU_D
+	CPL_P_PAX
+	IVTT_PU_P
+	OVTT_WT_PAX
+	Uber_PAX
+	IVTT_PU_Uber
+	OVTT_WT_Uber
+	CSCAR_PAX
+	IVTTRT_C
+	OVTTwalk_CSCAR
+	CSMK_PAX
+	IVTTRT_MB
+	OVTTwalk_CSMB
+	IVTTRT_EB
+	OVTTwalk_CSEB
+	IVTTRT_B
+	OVTTwalk_CSB
+	CarShare_PREF
+	Choice_SN3
+	IVTT_A
+	IVTT_A_A
+	IVTT_pkup_A
+	IVTT_PRKG_A
+	OVTT_A
+	OVTTwalk_A
+	OVTTbike_A
+	OVTTwait_A
+	TTT_A
+	EPT_A
+	TC_A
+	TC_E_A
+	TC_fee_A
+	TC_PKG_A
+	PAX_A
+	EtCO2_A
+	EyCO2_A
+	ECyr_A
+	IVTT_B
+	IVTT_A_B
+	IVTT_pkup_B
+	IVTT_PRKG_B
+	OVTT_B
+	OVTTwalk_B
+	OVTTbike_B
+	OVTTwait_B
+	TTT_B
+	EPT_B
+	TC_B
+	TC_E_B
+	TC_fee_B
+	TC_PKG_B
+	PAX_B
+	ECtrip_B
+	ECyr_B
+	IVTT_C
+	IVTT_A_C
+	IVTT_pkup_C
+	IVTT_PRKG_C
+	OVTT_C
+	OVTTwalk_C
+	OVTTbike_C
+	OVTTwait_C
+	TTT_C
+	EPT_C
+	TC_C
+	TC_E_C
+	TC_fee_C
+	TC_PKG_C
+	PAX_C
+	ECtrip_C
+	ECyr_C
+	IVTT_D
+	IVTT_A_D
+	IVTT_pkup_D
+	IVTT_PRKG_D
+	OVTT_D
+	OVTTwalk_D
+	OVTTbike_D
+	OVTTwait_D
+	TTT_D
+	EPT_D
+	TC_E_D
+	TC_fee_D
+	TC_PKG_D
+	PAX_D
+	EtCO2_D
+	EyCO2_D
+	ECtrip_D
+	ECyr_D
+	IVTT_E
+	IVTT_A_E
+	IVTT_pkup_E
+	IVTT_PRKG_E
+	OVTT_E
+	OVTTwalk_E
+	OVTTbike_E
+	OVTTwait_E
+	TTT_E
+	EPT_E
+	TC_E
+	TC_E_E
+	TC_fee_E
+	TC_PKG_E
+	PAX_E
+	EtCO2_E
+	EyCO2_E
+	ECtrip_E
+	ECyr_E
+	IVTT_F
+	IVTT_A_F
+	IVTT_pkup_F
+	IVTT_PRKG_F
+	OVTT_F
+	OVTTwalk_F
+	OVTTbike_F
+	OVTTwait_F
+	TTT_F
+	EPT_F
+	TC_F
+	TC_E_F
+	TC_fee_F
+	TC_PKG_F
+	PAX_F
+	EtCO2_F
+	EyCO2_F
+	ECtrip_F
+	ECyr_F
+	IVTT_G
+	IVTT_A_G
+	IVTT_pkup_G
+	IVTT_PRKG_G
+	OVTT_G
+	OVTTwalk_G
+	OVTTbike_G
+	OVTTwait_G
+	TTT_G
+	EPT_G
+	TC_G
+	TC_E_G
+	TC_fee_G
+	TC_PKG_G
+	PAX_G
+	EtCO2_G
+	EyCO2_G
+	ECtrip_G
+	ECyr_G
+	IVTT_H
+	IVTT_A_H
+	IVTT_pkup_H
+	IVTT_PRKG_H
+	OVTT_H
+	OVTTwalk_H
+	OVTTbike_H
+	OVTTwait_H
+	TTT_H
+	EPT_H
+	TC_H
+	TC_E_H
+	TC_fee_H
+	TC_PKG_H
+	PAX_H
+	EtCO2_H
+	EyCO2_H
+	ECtrip_H
+	ECyr_H
+	WTA_Mode_Bnp_choice
+	WTA_Mode_Bnp
+	WTA_Mode_Cnp_choice
+	WTA_Mode_Cnp
+	WTA_Mode_Dnp_choice
+	WTA_Mode_Dnp
+	WTA_Mode_Enp_choice
+	WTA_Mode_Enp
+	WTA_Mode_Fnp_choice
+	WTA_Mode_Fnp
+	WTA_Mode_Gnp_choice
+	WTA_Mode_Gnp
+	WTA_Mode_Hnp_choice
+	WTA_Mode_Hnp
+	WTA_Mode_zero
+	WTA_Mode_zerorsn
+	WTA_Mode_RMN
+	WTA_Mode_RMN_rsn
+	COVID_Mode_Choice
+	WTA_Attract
+	WTA_Attract_rsn
+	gender
+	age
+	education
+	income_pers
+	work_period
+	work_period_2
+	resident_status
+	resident_HH
+	income_pers_value
+	income_HH
+	resident_kid
+	income_HH_value
+	driving_EXPC
+	Scooter_HH
+	Scooter_HH_use
+	Car_HH
+	Car_HH_use
+	Vehicle_INCR
+	Vehicle_DECR
+	Vehicle_nn_change
+	WFHday
+	SR04
+	SP05
+	SP09
+	SR10
+	SR12
+	SR14
+	SP15
+	SR18
+	SP19
+	SP21
+	SR24
+	SP31
+	SP35
+	SP37
+	SR38
+	SP39
+	SR44
+	SR46
+	SP47
+	SP48
+	FilterCity
+	FilterLicience
+	FilterMode
